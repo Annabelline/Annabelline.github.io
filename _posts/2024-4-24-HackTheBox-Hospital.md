@@ -1,8 +1,8 @@
 ---
 title: HTB Hospital Writeup
 date: 2024-4-23
-categories: LabWriteup,HackTheBox
-tags: VulnerabilityRecurrence,PrivilegeEscalation
+categories: LabWriteup HackTheBox
+tags: VulnerabilityRecurrence PrivilegeEscalation
 ---
 
 ### Portinfo：
